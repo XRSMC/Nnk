@@ -1,4 +1,5 @@
 // *** GAME FLOW
+console.log(">>> Custom game.js loaded!");
 
 // *** Show playbutton and afterwards the preload bar
 function showPlaybutton()
